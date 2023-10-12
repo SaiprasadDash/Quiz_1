@@ -1,0 +1,41 @@
+div.a{
+    background-color: green;
+    height: 400px;
+}
+div.b{
+    background-color: blue;
+    height: 300px;
+}
+h2{
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 100px;
+    margin-right:100px;
+}
+h1{
+    margin-left: 200px;
+}
+p{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.p1{
+    border: 10px dashed yellow ;
+}
+.p2{
+    border: 10px dashed yellow ;
+}
+.p3{
+    padding: 50px;
+    border: 10px solid  purple;
+    margin-right: 500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2;
+}
+div.logo img{
+    
+    width: 200px;
+    height: 200px;
+    
+    float:right ;
+}
